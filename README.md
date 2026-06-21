@@ -7,6 +7,7 @@ The Helicopter Main Rotor Lab Prototype is an experimental rotor propulsion test
 The project utilizes an 80 cm diameter fixed-pitch rotor driven by a high-torque Johnson DC motor and controlled through an ESP32-based Wi-Fi interface. The system serves as a laboratory-scale platform for investigating rotor thrust generation, torque effects, structural behavior, and electrical power consumption.
 
 This prototype was developed as part of aerospace engineering laboratory experimentation and educational research.
+[Images/Final Pic](https://github.com/sujeetsamal/Helicopter-Main-Rotor-Lab-Prototype/blob/b3e1eac60162c5e7944b8327e4dc11a91ef46c8a/Images/Final%20Pic)
 
 ---
 
