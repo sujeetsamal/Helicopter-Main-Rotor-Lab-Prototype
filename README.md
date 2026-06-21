@@ -8,7 +8,6 @@ The project utilizes an 80 cm diameter fixed-pitch rotor driven by a high-torque
 
 This prototype was developed as part of aerospace engineering laboratory experimentation and educational research.
 
-![Images/Final Pic](https://github.com/sujeetsamal/Helicopter-Main-Rotor-Lab-Prototype/blob/b3e1eac60162c5e7944b8327e4dc11a91ef46c8a/Images/Final%20Pic)
 
 ---
 
@@ -102,9 +101,13 @@ Helicopter-Main-Rotor-Lab-Prototype
 
 ### CAD Model
 Contains the 3D design and CAD representation of the rotor test rig.
+![Images/CAD](https://github.com/sujeetsamal/Helicopter-Main-Rotor-Lab-Prototype/blob/eb39fd28dccbce1fb3b638e2f41044a86e83e39c/Images/CAD)
+
 
 ### 2-D Engineering Drawing
 Contains engineering drawings with dimensions and manufacturing references.
+![Images/2-D eng](https://github.com/sujeetsamal/Helicopter-Main-Rotor-Lab-Prototype/blob/eb39fd28dccbce1fb3b638e2f41044a86e83e39c/Images/2-D%20eng)
+
 
 ### Internal Wiring
 Shows electrical connections between:
@@ -116,12 +119,16 @@ Shows electrical connections between:
 
 ### BMS With Li-ion
 Illustrates battery management system connections and battery configuration.
+![Images/BMS WITH LI-ion](https://github.com/sujeetsamal/Helicopter-Main-Rotor-Lab-Prototype/blob/eb39fd28dccbce1fb3b638e2f41044a86e83e39c/Images/BMS%20WITH%20LI-ion)
+
 
 ### Different Angle
 Photographs from multiple viewpoints for structural understanding.
 
 ### Final Picture
 Completed assembled prototype.
+![Images/Final Pic](https://github.com/sujeetsamal/Helicopter-Main-Rotor-Lab-Prototype/blob/b3e1eac60162c5e7944b8327e4dc11a91ef46c8a/Images/Final%20Pic)
+
 
 ---
 
